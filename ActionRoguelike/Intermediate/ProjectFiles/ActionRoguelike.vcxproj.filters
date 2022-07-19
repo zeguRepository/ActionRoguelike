@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActionRoguelike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{507355C9-6D9E-46C5-B4BC-DE82B8A376A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRoguelike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRoguelikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E8BE5C1C-074E-4F72-AF33-3C1D7832E6A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ActionRoguelike">
+      <UniqueIdentifier>{4EE066F1-8A02-486C-A82D-38787A285801}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRoguelike\ActionRoguelike.Build.cs">
+      <Filter>Source\ActionRoguelike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActionRoguelike\ActionRoguelike.cpp">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRoguelike\ActionRoguelike.h">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ActionRoguelike\ActionRoguelikeGameModeBase.cpp">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRoguelike\ActionRoguelikeGameModeBase.h">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionRoguelike\Private">
+      <UniqueIdentifier>{A0EA9692-CC5C-4CFA-8596-DDC7B2306C04}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRoguelike\Private\SCharacter.cpp">
+      <Filter>Source\ActionRoguelike\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRoguelike\Public">
+      <UniqueIdentifier>{5411D624-458D-4BBF-88B7-672F644BD5C8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRoguelike\Public\SCharacter.h">
+      <Filter>Source\ActionRoguelike\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

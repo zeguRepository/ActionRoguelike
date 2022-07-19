@@ -1,0 +1,2 @@
+I:\githubProject\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\Definitions.ActionRoguelike.h
+I:\githubProject\ActionRoguelike\ActionRoguelike\Source\ActionRoguelike\ActionRoguelike.h

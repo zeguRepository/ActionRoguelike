@@ -1,0 +1,7 @@
+I:\githubProject\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\Definitions.ActionRoguelike.h
+I:\githubProject\ActionRoguelike\ActionRoguelike\Source\ActionRoguelike\ActionRoguelikeGameModeBase.h
+I:\unrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+I:\unrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+I:\unrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+I:\unrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+I:\githubProject\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Inc\ActionRoguelike\ActionRoguelikeGameModeBase.generated.h
